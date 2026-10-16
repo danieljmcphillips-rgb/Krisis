@@ -1,0 +1,302 @@
+[
+  {
+    "organisation": "Glasgow City Youth Health Service (NHS Greater Glasgow and Clyde)",
+    "website_to_check": "https://www.nhsggc.scot/hospitals-services/services-a-to-z/glasgow-city-youth-health-service/",
+    "councils_in_sheet": [
+      "Glasgow City"
+    ],
+    "CHECKED_phone": "0141 451 2727",
+    "CHECKED_email": "",
+    "CHECKED_hours": "Phone line Monday – Friday, from 8.30am – 4.00pm. Clinics operate Monday-Thursday evenings, 6.30pm until 9.00pm, at health centres throughout Glasgow City.",
+    "CHECKED_eligibility_area": "Young people aged 12-19 years who live in Glasgow City local authority or are registered with a Glasgow GP",
+    "CHECKED_is_helpline_or_switchboard": "referral line",
+    "CHECKED_status": "ok",
+    "source_url": "https://www.nhsggc.scot/hospitals-services/services-a-to-z/glasgow-city-youth-health-service/find-out-more/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "aged 12-19 years",
+    "in_scope": "true – NHS youth health service with mental health support (short-term support for stress, anxiety and low mood, Lifelink counsellors, group sessions); not a youth club.",
+    "councils_resolved": [
+      "Glasgow City"
+    ],
+    "name": "Glasgow City Youth Health Service",
+    "description": "Confidential health support for young people aged 12–19 in Glasgow, including short-term help with stress, anxiety and low mood. You can refer yourself.",
+    "opening_times": "Phone Mon–Fri 8.30am–4pm; clinics Mon–Thu 6.30pm–9pm",
+    "notes": "Not an emergency service. Phone to make a referral – for young people aged 12–19 who live in Glasgow City or have a Glasgow GP.",
+    "notes_detail": "Young people can refer themselves, or be referred by a teacher, school nurse, parent, GP or other organisation – the referral must be discussed with the young person first. Evening clinics run at health centres across Glasgow City. Parents, carers and young people can also use the call-back form on the contact page.",
+    "flags": [
+      "Line is a referral/appointment line, not a helpline – not for crisis.",
+      "Overlaps with Lifelink (candidate 4): Lifelink counsellors deliver the mental health sessions within this service."
+    ]
+  },
+  {
+    "organisation": "Barnardo's",
+    "website_to_check": "https://www.barnardos.org.uk/get-support/services/youth-involvement-family-support-project",
+    "councils_in_sheet": [
+      "Glasgow City"
+    ],
+    "CHECKED_phone": "0141 773 4297",
+    "CHECKED_email": "youthinvolvement.project@barnardos.org.uk",
+    "CHECKED_hours": "",
+    "CHECKED_eligibility_area": "Not stated. Children and young people aged 0-21 or 0-26 if care experienced, who have a range of emotional needs, and their parents/carers and families. Project address: 69-71 Aberdalgie Road, Westwood Business Centre, Glasgow G34 9HJ.",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://www.barnardos.org.uk/get-support/services/youth-involvement-family-support-project",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "aged 0-21 or 0 -26 if care experienced",
+    "in_scope": "true – family support service for children and young people with emotional needs, promoting positive mental health; not a youth club.",
+    "councils_resolved": [
+      "Glasgow City"
+    ],
+    "name": "Barnardo's Youth Involvement & Family Support Project",
+    "description": "Family support service for children and young people aged 0–21 (0–26 if care experienced) who have a range of emotional needs, and their parents, carers and families.",
+    "opening_times": "",
+    "notes": "Office number, not a support line.",
+    "notes_detail": "Based at Westwood Business Centre, 69–71 Aberdalgie Road, Glasgow G34 9HJ.",
+    "flags": [
+      "Area served not stated on page – Glasgow City inferred only from the Glasgow (G34) project address; confirm before publishing under a council.",
+      "No hours and no referral route stated on page."
+    ]
+  },
+  {
+    "organisation": "Volunteer Glasgow",
+    "website_to_check": "https://www.volunteerglasgow.org/services/ypbs/",
+    "councils_in_sheet": [
+      "Glasgow City"
+    ],
+    "CHECKED_phone": "0141 226 3431",
+    "CHECKED_email": "befriending@volunteerglasgow.org",
+    "CHECKED_hours": "",
+    "CHECKED_eligibility_area": "Young person is aged 8-18 at the time of the referral; lives in Glasgow",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://www.volunteerglasgow.org/services/ypbs/information-for-referrers/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "8-18 year olds, living in Glasgow",
+    "in_scope": "true (borderline) – one-to-one befriending by trained volunteers for young people coping with difficult circumstances, aiming to promote mental wellbeing; a support service rather than a youth club, but not a mental health or crisis service.",
+    "councils_resolved": [
+      "Glasgow City"
+    ],
+    "name": "Volunteer Glasgow Young Persons Befriending Service",
+    "description": "Free befriending for young people aged 8–18 in Glasgow who are dealing with difficult circumstances. You are matched with a trained volunteer for weekly activities.",
+    "opening_times": "",
+    "notes": "Not an emergency service. Office number, not a support line.",
+    "notes_detail": "Anyone can make a referral, with the agreement of the young person and their family. Download the referral form from their website, or email befriending@volunteerglasgow.org or call 0141 226 3431 and they can email or post one out. There is no cost to families.",
+    "flags": [
+      "Phone 0141 226 3431 is also Volunteer Glasgow's main office number (site header) – office/switchboard, not a support line.",
+      "Matching can take a while; waits due to high demand are stated on site."
+    ]
+  },
+  {
+    "organisation": "Lifelink",
+    "website_to_check": "https://www.lifelink.org.uk/",
+    "councils_in_sheet": [
+      "Glasgow City"
+    ],
+    "CHECKED_phone": "0141 552 4434",
+    "CHECKED_email": "info@lifelink.org.uk",
+    "CHECKED_hours": "Mon - Fri: 9:00 - 16:45",
+    "CHECKED_eligibility_area": "Youth counselling: \"available for young people in specific schools across Scotland and through Youth Health Services in Glasgow\". No age range stated for young people.",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://www.lifelink.org.uk/young-person/one-to-one-counselling/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "Not stated (\"young people\")",
+    "in_scope": "true – one-to-one counselling for young people (stress, worry, low mood, etc.); not a youth club. Access is limited to specific schools and Glasgow Youth Health Services.",
+    "councils_resolved": [
+      "Glasgow City"
+    ],
+    "name": "Lifelink Young Person One-to-One Counselling",
+    "description": "One-to-one counselling for young people in some schools and through Glasgow's Youth Health Services. Help with stress, worry, low mood, confidence and more.",
+    "opening_times": "Mon–Fri 9am–4.45pm",
+    "notes": "Not an emergency service. Office number, not a support line.",
+    "notes_detail": "Ask a teacher or guidance teacher whether your school has Lifelink counselling, or complete the referral form on their website (a teacher, parent/carer or professional can do it for you). If your school doesn't have it, call 0141 552 4434 and they will try to give you information about support in your area.",
+    "flags": [
+      "Youth offer is not open-access: only in specific (unnamed) schools across Scotland and via Glasgow City Youth Health Service – overlaps with candidate 1.",
+      "Phone and email are Lifelink's general enquiries line (contact page), not a dedicated youth line.",
+      "Hours taken from homepage footer; youth page itself gives no hours."
+    ]
+  },
+  {
+    "organisation": "The Spark",
+    "website_to_check": "https://www.thespark.org.uk/counselling/for-young-people/",
+    "councils_in_sheet": [
+      "City of Edinburgh",
+      "Glasgow City"
+    ],
+    "CHECKED_phone": "",
+    "CHECKED_email": "",
+    "CHECKED_hours": "",
+    "CHECKED_eligibility_area": "",
+    "CHECKED_is_helpline_or_switchboard": "",
+    "CHECKED_status": "unclear",
+    "source_url": "",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "",
+    "in_scope": "unknown – could not load the organisation's site to confirm.",
+    "councils_resolved": [],
+    "name": "",
+    "description": "",
+    "opening_times": "",
+    "notes": "",
+    "notes_detail": "",
+    "flags": [
+      "Entire thespark.org.uk site returns a Cloudflare bot challenge (HTTP 403) to both WebFetch and curl; homepage, contact page and young-people page all blocked. Wayback Machine also blocked. Needs a manual check in a real browser.",
+      "LEAD ONLY (search snippets, not verified): two different numbers appear – 0300 180 0444 (youth page) and 0808 802 2088 (counselling overview) – a possible conflict to resolve on manual check.",
+      "LEAD ONLY: snippets suggest youth in-person sessions may be at the Glasgow office only (plus online), which would make the City of Edinburgh listing questionable. Unverified."
+    ]
+  },
+  {
+    "organisation": "RAMH (Recovery Across Mental Health)",
+    "website_to_check": "https://ramh.org/",
+    "councils_in_sheet": [
+      "East Renfrewshire"
+    ],
+    "CHECKED_phone": "0141 847 8900",
+    "CHECKED_email": "enquiries@ramh.org",
+    "CHECKED_hours": "",
+    "CHECKED_eligibility_area": "East Renfrewshire Youth Counselling Service – counsellors work in secondary schools; page says they worked with 10 to 18 year olds to develop the service. No explicit eligibility wording beyond the service name.",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://ramh.org/erycs/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "\"We have worked with 10 to 18 year olds to develop services\" (no formal eligibility age given)",
+    "in_scope": "true – RAMH's only youth service is the East Renfrewshire Youth Counselling Service (ERYCS): school-based counselling by postgraduate-trained counsellors; not a youth club.",
+    "councils_resolved": [
+      "East Renfrewshire"
+    ],
+    "name": "RAMH East Renfrewshire Youth Counselling Service (ERYCS)",
+    "description": "Counselling for young people in secondary schools in East Renfrewshire, during the school day, in a confidential room.",
+    "opening_times": "",
+    "notes": "Not an emergency service. Office number, not a support line. Referral is through the Healthier Minds website.",
+    "notes_detail": "Refer to the service by visiting the Healthier Minds website. The phone and email are for RAMH's head office in Paisley.",
+    "flags": [
+      "Same service as candidate 7 (ramh.org/erycs) – deduplicate; keep one record under East Renfrewshire.",
+      "0141 847 8900 is RAMH Head Office – switchboard, not a youth support line.",
+      "Referral is via Healthier Minds (blogs.glowscotland.org.uk/er/healthierminds/...), an East Renfrewshire schools/council site – not RAMH's own, not verified here."
+    ]
+  },
+  {
+    "organisation": "RAMH (Recovery Across Mental Health)",
+    "website_to_check": "https://ramh.org/erycs/",
+    "councils_in_sheet": [
+      "Renfrewshire"
+    ],
+    "CHECKED_phone": "0141 847 8900",
+    "CHECKED_email": "enquiries@ramh.org",
+    "CHECKED_hours": "",
+    "CHECKED_eligibility_area": "East Renfrewshire Youth Counselling Service (ERYCS) – counsellors work in secondary schools; page says they worked with 10 to 18 year olds to develop the service.",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://ramh.org/erycs/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "\"We have worked with 10 to 18 year olds to develop services\" (no formal eligibility age given)",
+    "in_scope": "true – school-based youth counselling; but it serves East Renfrewshire, not Renfrewshire.",
+    "councils_resolved": [
+      "East Renfrewshire"
+    ],
+    "name": "RAMH East Renfrewshire Youth Counselling Service (ERYCS)",
+    "description": "Counselling for young people in secondary schools in East Renfrewshire, during the school day, in a confidential room.",
+    "opening_times": "",
+    "notes": "Not an emergency service. Office number, not a support line. Referral is through the Healthier Minds website.",
+    "notes_detail": "Refer to the service by visiting the Healthier Minds website. The phone and email are for RAMH's head office in Paisley.",
+    "flags": [
+      "COUNCIL MISMATCH: ERYCS = East Renfrewshire Youth Counselling Service (page heading 'East Renfrewshire Youth Counselling Service (ERYCS)'). Sheet lists it under Renfrewshire – remove from Renfrewshire.",
+      "RAMH's support page lists no youth service for Renfrewshire.",
+      "Duplicate of candidate 6."
+    ]
+  },
+  {
+    "organisation": "Trust Jack Foundation",
+    "website_to_check": "https://trustjackfoundation.org/",
+    "councils_in_sheet": [
+      "South Lanarkshire"
+    ],
+    "CHECKED_phone": "07981 953 794",
+    "CHECKED_email": "admin@trustjackfoundation.co.uk",
+    "CHECKED_hours": "Opening Times: Mon – Thurs 9:30am – 3:00pm. Open Evenings and weekends for our Groups",
+    "CHECKED_eligibility_area": "Self-referral page: \"12-18 years of age\", \"Not currently receiving support from other mental health services\", \"We cover all of Lanarkshire.\" About page: \"we help people from North and South Lanarkshire, Ayrshire and Glasgow\", \"supporting everyone age 11+\". Talking therapy \"exclusively for children and young adults (up to age 21)\".",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://trustjackfoundation.org/self-referral/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "Self-referral: \"12-18 years of age\"; talking therapy \"up to age 21\"; charity overall \"everyone age 11+\"",
+    "in_scope": "true – mental health and suicide prevention charity with 1-to-1 talking therapy for young people and self-referral for 12–18s, plus support groups; not just a youth club.",
+    "councils_resolved": [
+      "South Lanarkshire",
+      "North Lanarkshire"
+    ],
+    "name": "Trust Jack Foundation",
+    "description": "Mental health and suicide prevention charity in Stonehouse. Free one-to-one talking therapy and support groups for young people. You can refer yourself if you are 12–18.",
+    "opening_times": "Mon–Thu 9.30am–3pm",
+    "notes": "Not a crisis service. Office number, not a support line.",
+    "notes_detail": "Fill in the online referral form on their website; they will contact you to book a telephone assessment. Self-referral is for 12–18 year olds who are not currently getting support from other mental health services. Jack's Hub is at 42 King Street, Stonehouse ML9 3EF – groups run in the evenings. You can also call 01698 793980.",
+    "flags": [
+      "AREA CONFLICT on own site: self-referral page says 'We cover all of Lanarkshire'; About page says 'North and South Lanarkshire, Ayrshire and Glasgow'. Resolved to North + South Lanarkshire (the self-referral rule); not added under Ayrshire/Glasgow.",
+      "AGE CONFLICT on own site: self-referral 12–18; talking therapy up to 21; About page 'age 11+'.",
+      "Two numbers on site: mobile 07981 953 794 (contact page 'any other questions') and landline 01698 793980 (homepage, group enquiries). Neither is a helpline.",
+      "Email uses trustjackfoundation.co.uk while website is .org – .co.uk redirects to the .org site, so same organisation.",
+      "Self-referral excludes young people already receiving support from other mental health services."
+    ]
+  },
+  {
+    "organisation": "Wellbeing Matters Lanarkshire",
+    "website_to_check": "https://wellbeingmatterslanarkshire.co.uk/",
+    "councils_in_sheet": [
+      "North Lanarkshire",
+      "South Lanarkshire"
+    ],
+    "CHECKED_phone": "",
+    "CHECKED_email": "",
+    "CHECKED_hours": "",
+    "CHECKED_eligibility_area": "Mental Health & Wellbeing Support for people living, working and studying in Lanarkshire. Children & Young People section: aged up to 25.",
+    "CHECKED_is_helpline_or_switchboard": "none",
+    "CHECKED_status": "link-only",
+    "source_url": "https://wellbeingmatterslanarkshire.co.uk/self-help-support/children-and-young-people/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "\"children and young people, aged up to 25\"",
+    "in_scope": "false (borderline) – a self-help information and signposting website (formerly Elament), not a support service itself; no phone, email or direct support offered. It signposts to WellbeingSouthLan, Kooth, GIRFEC NL and the NHS Lanarkshire directory.",
+    "councils_resolved": [
+      "North Lanarkshire",
+      "South Lanarkshire"
+    ],
+    "name": "Wellbeing Matters Lanarkshire",
+    "description": "Website with mental health self-help information and links to local support for people living, working and studying in Lanarkshire, including a section for children and young people.",
+    "opening_times": "",
+    "notes": "Information website – not a support service and not an emergency service.",
+    "notes_detail": "Formerly Elament. Developed with NHS Lanarkshire, Stigma Free Lanarkshire, Lanarkshire Recovery Network and people with lived experience. See the Get Help Now page on their website for urgent support.",
+    "flags": [
+      "Signposting/information site only – consider excluding as a youth 'service' or listing as a website resource.",
+      "Renamed: formerly Elament – check the directory does not already list Elament separately.",
+      "Leads to consider as separate candidates (not verified here): Kooth (10–18, up to 26 care experienced, N+S Lanarkshire), WellbeingSouthLan (South Lanarkshire, 10–26)."
+    ]
+  },
+  {
+    "organisation": "West Dunbartonshire Wellbeing (WD Wellbeing)",
+    "website_to_check": "https://www.wdwellbeing.info/",
+    "councils_in_sheet": [
+      "West Dunbartonshire"
+    ],
+    "CHECKED_phone": "",
+    "CHECKED_email": "ggc.wdchp.admin@nhs.scot",
+    "CHECKED_hours": "",
+    "CHECKED_eligibility_area": "Children, young people and their families, and those who work with them, in West Dunbartonshire",
+    "CHECKED_is_helpline_or_switchboard": "none",
+    "CHECKED_status": "link-only",
+    "source_url": "https://www.wdwellbeing.info/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "Not stated for the site (\"children, young people and their families\")",
+    "in_scope": "false (borderline) – an information and signposting website from West Dunbartonshire HSCP/Community Planning partners, not a support service; the only email is an NHS HSCP admin inbox.",
+    "councils_resolved": [
+      "West Dunbartonshire"
+    ],
+    "name": "WD Wellbeing",
+    "description": "Website with wellbeing and emotional health information for children, young people and families in West Dunbartonshire, including local mental health supports and services.",
+    "opening_times": "",
+    "notes": "Information website – not a support service and not an emergency service.",
+    "notes_detail": "The website lists helplines, apps and local supports and services, and has a Crisis/Out of hours section.",
+    "flags": [
+      "Signposting/information site only; email ggc.wdchp.admin@nhs.scot is an HSCP admin inbox, not a support contact – do not publish as a support email.",
+      "Lead for separate candidate (not verified here): Distress Brief Intervention Service for Young People in West Dunbartonshire – aged 14 to 24 (26 if care experienced), referral by GP, school or college, contact within 24 hours, support up to 14 days. Eligibility-restricted distress service; verify on the provider's own site."
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "organisation": "YoungMinds",
+    "website_to_check": "https://www.youngminds.org.uk/young-person/my-feelings/",
+    "councils_in_sheet": "all/most (national)",
+    "CHECKED_phone": "0808 802 5544",
+    "CHECKED_email": "parents@youngminds.org.uk",
+    "CHECKED_hours": "Phone: 9.30am - 4pm on Mondays, Thursdays and Fridays, and 9.30am - 6pm on Tuesdays and Wednesdays. Webchat: Monday to Friday, 9.30am - 4pm.",
+    "CHECKED_eligibility_area": "\"the parent or main carer of a child or young person aged 25 or under. Our service is available across the UK.\"",
+    "CHECKED_is_helpline_or_switchboard": "helpline",
+    "CHECKED_status": "ok",
+    "source_url": "https://www.youngminds.org.uk/parent/parents-helpline/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "Parents Helpline: for parents/main carers of a child or young person aged 25 or under. No direct phone/text support for young people themselves found on youngminds.org.uk.",
+    "in_scope": "false as a youth service: YoungMinds runs no direct phone/text support for young people (its 'I need urgent help' page lists only third-party services: Samaritans, Childline, NHS 111, Shout, CALM etc). Only its Parents Helpline is a YoungMinds-run line; include only if the directory lists parent/carer lines.",
+    "councils_resolved": [
+      "Scotland-wide"
+    ],
+    "name": "YoungMinds Parents Helpline",
+    "description": "Free, confidential advice line for parents and carers worried about the mental health of a child or young person aged 25 or under. Phone, webchat or email.",
+    "opening_times": "Mon, Thu, Fri 9.30am–4pm; Tue–Wed 9.30am–6pm",
+    "notes": "Not an emergency service. For parents and carers, not young people themselves.",
+    "notes_detail": "Webchat Mon–Fri 9.30am–4pm via chat icon on the page. Email parents@youngminds.org.uk any time; page says replies in 3-5 working days, elsewhere 'within seven working days' due to high demand. Page notice: helpline 'will be closed this week (Monday 19th - Friday 23rd October)' across phone, webchat and email (year not stated; 19 Oct 2026 is a Monday so this appears current). Young-person pages (my-feelings, find-help, i-need-urgent-help) list no YoungMinds-run line, only third-party services.",
+    "flags": [
+      "Parents-only line: not for young people themselves",
+      "Temporary closure notice on source page: Mon 19 - Fri 23 October (phone, webchat, email)",
+      "No YoungMinds direct support for young people found; do not list as a youth helpline"
+    ]
+  },
+  {
+    "organisation": "Muslim Youth Helpline",
+    "website_to_check": "https://myh.org.uk/",
+    "councils_in_sheet": "all/most (national)",
+    "CHECKED_phone": "0808 808 2008",
+    "CHECKED_email": "help@myh.org.uk",
+    "CHECKED_hours": "4:00 PM – 10:00 PM, 365 days a year (phone and webchat)",
+    "CHECKED_eligibility_area": "\"faith and culturally sensitive support ... to Muslims across the UK\"; \"Our services are designed for young people ... We support people of all ages and backgrounds. No one is ever turned away\". FAQ: landline calls free within England, Wales and Scotland.",
+    "CHECKED_is_helpline_or_switchboard": "helpline",
+    "CHECKED_status": "ok",
+    "source_url": "https://myh.org.uk/how-we-can-help/call-us/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "No fixed age limit: 'Our services are designed for young people ... We support people of all ages and backgrounds. No one is ever turned away.' Homepage meta describes it as support 'for young British Muslims'.",
+    "in_scope": "true: free UK-wide emotional support helpline, Scotland explicitly covered (calls free from Scottish landlines), designed for young Muslims.",
+    "councils_resolved": [
+      "Scotland-wide"
+    ],
+    "name": "Muslim Youth Helpline",
+    "description": "Free, confidential, faith and culturally sensitive support for young Muslims. Phone, webchat or email — no judgement, and no one is turned away.",
+    "opening_times": "Daily 4pm–10pm",
+    "notes": "Not an emergency service.",
+    "notes_detail": "Webchat 4pm–10pm, 365 days a year (https://myh.org.uk/how-we-can-help/chat-with-us/). Email help@myh.org.uk, reply within 1-3 working days (https://myh.org.uk/how-we-can-help/faq/). FAQ: 'Due to our current call volume, we limit calls to once per day.' Call-back service available. Not a religious guidance service; signposts to qualified scholars. info@myh.org.uk is for data/complaints, not support.",
+    "flags": [
+      "Calls limited to once per day per FAQ"
+    ]
+  },
+  {
+    "organisation": "Children First",
+    "website_to_check": "https://www.childrenfirst.org.uk/",
+    "councils_in_sheet": "all/most (national)",
+    "CHECKED_phone": "08000 28 22 33",
+    "CHECKED_email": "supportline@childrenfirst.org.uk",
+    "CHECKED_hours": "seven days a week, Monday to Friday, 9am - 9pm and weekends, 9am – noon",
+    "CHECKED_eligibility_area": "\"If you live in Scotland, call 08000 28 22 33 free\"; \"support to any family in Scotland\"; \"If you live in England please contact Family Lives\".",
+    "CHECKED_is_helpline_or_switchboard": "helpline",
+    "CHECKED_status": "ok",
+    "source_url": "https://www.childrenfirst.org.uk/get-support/support-line/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "Not stated. The support line is aimed at parents, carers, families and anyone worried about a child ('If you are concerned about a child or would like immediate advice and support about parenting'). No public line aimed at children/young people themselves was found on the site.",
+    "in_scope": "true as a family/parent support line serving all of Scotland; false if the category requires a line for young people themselves.",
+    "councils_resolved": [
+      "Scotland-wide"
+    ],
+    "name": "Children First Support Line",
+    "description": "Free support line for parents, carers and families in Scotland. Emotional, practical and financial help, or someone to talk to if you're worried about a child.",
+    "opening_times": "Mon–Fri 9am–9pm; Sat–Sun 9am–12pm",
+    "notes": "Not an emergency service. If a child is in immediate danger, call 999.",
+    "notes_detail": "Webchat also available from the support line page. Provides the Kinship Care Advice Service for Scotland through the same line. Contact page also lists switchboards (reception 0131 446 2300, fundraising 0345 10 80 111, cfs@childrenfirst.org.uk for service enquiries) — these are not support lines. 999 advice quoted from source page.",
+    "flags": [
+      "Aimed at parents/carers/families and adults worried about a child, not at children/young people directly",
+      "Do not use 0131 446 2300 (reception) as a support number"
+    ]
+  },
+  {
+    "organisation": "Scottish Child Law Centre",
+    "website_to_check": "https://sclc.org.uk/contact/",
+    "councils_in_sheet": "all/most (national)",
+    "CHECKED_phone": "0131 668 4400",
+    "CHECKED_email": "enquiries@sclc.org.uk",
+    "CHECKED_hours": "e-mail advice service (online enquiry form) open Monday to Friday from 9am–4pm. No hours stated for the Admin Line.",
+    "CHECKED_eligibility_area": "\"Children and young people under 21 can get in touch, as can family members, carers and professionals who support them.\" \"We receive enquiries from across Scotland\". Advice on Scots law relating to children and young people.",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://sclc.org.uk/contact/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "\"Children and young people under 21\" (plus family members, carers and professionals who support them)",
+    "in_scope": "true: free legal advice on children's rights for under-21s across Scotland — but advice is by online form, not phone; not a support/crisis line.",
+    "councils_resolved": [
+      "Scotland-wide"
+    ],
+    "name": "Scottish Child Law Centre",
+    "description": "Free, confidential legal advice on children's rights and Scots law for under-21s, and for family, carers and professionals who support them. Ask by online form.",
+    "opening_times": "Online advice form Mon–Fri 9am–4pm",
+    "notes": "Admin line, not an advice line. Not an emergency service.",
+    "notes_detail": "Phone 0131 668 4400 is labelled 'Admin Line' on the contact page. Legal advice is requested via the enquiry form, which is only accessible Mon–Fri 9am–4pm; replies may take a few days. Also runs Govanhill Community Clinic (free legal advice for people living in the Govanhill area), every Tuesday 10am to 4pm.",
+    "flags": [
+      "Only phone is an admin line; advice route is web form only"
+    ]
+  },
+  {
+    "organisation": "Clan Childlaw",
+    "website_to_check": "https://www.clanchildlaw.org/legal-help/get-legal-help-for-a-child-or-young-person/",
+    "councils_in_sheet": "East Lothian, City of Edinburgh, Glasgow City, Midlothian, West Lothian",
+    "CHECKED_phone": "0808 129 0522",
+    "CHECKED_email": "info@clanchildlaw.org",
+    "CHECKED_hours": "The helpline is open Monday to Friday 9 – 1pm, 2 – 5pm.",
+    "CHECKED_eligibility_area": "Helpline: 'Children and Young People – under the age of 26' and adults supporting them, about 'the law affecting children and young people in Scotland'; no area restriction stated. Representation: 'we can represent children and young people in Edinburgh and the Lothians, Glasgow and the surrounding area.'",
+    "CHECKED_is_helpline_or_switchboard": "helpline",
+    "CHECKED_status": "ok",
+    "source_url": "https://www.clanchildlaw.org/contact-us/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "\"Children and Young People – under the age of 26\" (plus adults supporting them). 'We cannot give information to adults who are looking for legal advice for themselves.'",
+    "in_scope": "true: free legal information helpline for under-26s about law in Scotland, no area limit stated; lawyer representation is area-limited.",
+    "councils_resolved": [
+      "Scotland-wide"
+    ],
+    "name": "Clan Childlaw",
+    "description": "Free legal information helpline for children and young people under 26, and adults supporting them, about your rights and the law in Scotland. Free lawyers for young people in Edinburgh, the Lothians and the Glasgow area.",
+    "opening_times": "Mon–Fri 9am–1pm and 2pm–5pm",
+    "notes": "Not an emergency service. Helpline cannot always give urgent legal advice or get you a lawyer straight away.",
+    "notes_detail": "Text 0752 756 6682 and email info@clanchildlaw.org shown in site footer (email decoded from Cloudflare-protected link). Non-urgent contact form: reply within two working days. Listed helpline closure dates include 22nd October 2026, 4th December 2026, 25th December 2026 and early January 2027. Representation area: 'Edinburgh and the Lothians, Glasgow and the surrounding area' — the sheet's council list (East Lothian, Edinburgh, Glasgow, Midlothian, West Lothian) reflects representation, not the helpline.",
+    "flags": [
+      "Helpline appears Scotland-wide (no area limit stated) but representation is limited to Edinburgh/Lothians/Glasgow and surrounding area — the site does not define 'surrounding area'",
+      "Helpline closed 22 October 2026 (staff training/holiday dates listed)",
+      "Adults seeking legal advice for themselves are not eligible"
+    ]
+  }
+]

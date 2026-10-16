@@ -1,0 +1,23 @@
+{
+  "hopeline_status": "closed — Papyrus has ceased operations and entered administration (Joint Administrators appointed 07 September 2026). HopeLine24/7 'is no longer operating'.",
+  "evidence": [
+    {
+      "url": "https://www.papyrus-uk.org/",
+      "quote_or_summary": "Papyrus's own domain (homepage, /papyrus-hopeline247/, /contact-us/, and bare papyrus-uk.org) returns 301 redirect to the administrators' case page at opusllp.com. No Papyrus-hosted content remains.",
+      "date_shown": "checked 2026-10-16"
+    },
+    {
+      "url": "https://opusllp.com/restructuring-insolvency/case-papyrus-in-administration/",
+      "quote_or_summary": "\"Emma Mifsud and Charles Turner of Opus Restructuring LLP were appointed as Joint Administrators of Papyrus Prevention of Young Suicide – in Administration on 07 September 2026.\" \"HopeLine24/7 is no longer operating.\" FAQ 3 'Is HopeLine24/7 still available?' — 'HopeLine24/7 is no longer operating. Callers should please contact alternative support services'. 'Yes, Papyrus has closed and has been placed into Administration'.",
+      "date_shown": "Appointment 07 September 2026; page datePublished 2026-09-07, dateModified 2026-09-21"
+    },
+    {
+      "url": "https://opusllp.com/restructuring-insolvency/case-papyrus-in-administration/",
+      "quote_or_summary": "Signposts (not successors): 'Samaritans (free 24/7): Call 116 123'; 'Shout (free 24/7): Text SHOUT to 85258'; 'NHS for urgent mental health support: Call 111'; emergency 999/A&E. FAQ 6: 'the possibility of some services being transferred is actively being explored and updates will be provided'; 'There is no guarantee that a transfer will be possible'.",
+      "date_shown": "dateModified 2026-09-21"
+    }
+  ],
+  "successor": null,
+  "successor_note": "No successor or replacement service is named. The administrators only signpost to existing general services (Samaritans, Shout, NHS 111). These were not verified on their own sites in this batch and are not Papyrus successors; NHS 111 in the signposting is the England/Wales service (Scotland's NHS 24 is also 111). Transfer of some Papyrus services is 'being explored' with no guarantee — re-check the administrators' page later.",
+  "recommended_change_to_existing_record": "Remove/unpublish 'Papyrus HopeLine 24/7' (status: dead — organisation in administration, line no longer operating per administrators' page dated 07/21 Sep 2026). Do not replace with a successor number. Ensure Samaritans and Shout records exist and are separately verified. Schedule a re-check of the Opus page for any announced service transfer."
+}
