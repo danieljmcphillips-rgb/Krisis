@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T16:24:07",
+  "generated": "2026-10-16T20:13:37",
   "councils": [
     {
       "code": "S12000033",
@@ -5678,23 +5678,6 @@
       "verified": "yes",
       "last_checked": "2026-07-27",
       "notes_detail": "Relay UK users can call via 18001 116 123."
-    },
-    {
-      "id": "r0324",
-      "scope": "national",
-      "category": "other-mh",
-      "name": "Papyrus HopeLine 24/7",
-      "url": "https://www.papyrus-uk.org/help-me/hopeline-24-7",
-      "publish": "yes",
-      "description": "Suicide prevention support for people under 35, and for anyone worried about a young person.",
-      "phone": "0300 102 2470",
-      "email": "pat@papyrus-uk.org",
-      "opening_times": "24/7",
-      "notes": "Text HOPE to 88247. Calls to the 0300 number are free.",
-      "source_url": "https://www.papyrus-uk.org/help-me/hopeline-24-7",
-      "verified": "yes",
-      "last_checked": "2026-07-27",
-      "notes_detail": ""
     },
     {
       "id": "r0325",
