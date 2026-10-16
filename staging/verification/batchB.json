@@ -1,0 +1,251 @@
+[
+  {
+    "organisation": "Mindspace (Mindspace Perth and Kinross) – Young People",
+    "website_to_check": "https://mindspacepk.com/services/young-people/",
+    "councils_in_sheet": "Aberdeen City",
+    "CHECKED_phone": "01738 639657",
+    "CHECKED_email": "ypteam@mindspacepk.com",
+    "CHECKED_hours": "Contact page gives two conflicting sets: '9.00 – 17.00 Monday – Friday' and '9am to 6pm – Mon to Thurs / 9am to 5pm – Fri / 9am to 1pm - Sat'. Counselling enquiries line (01738 631639): 'between 8.30am and 5.00pm Monday to Friday'.",
+    "CHECKED_eligibility_area": "Perth and Kinross. Homepage: 'Our services tailored for people aged 8-18'. Counselling venues: Blairgowrie 18+, Crieff 10+ (Wed) and 12+ (Thu), Dunkeld 18+, Kinross 8+.",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://mindspacepk.com/services/young-people/ ; https://mindspacepk.com/contact/ ; https://mindspacepk.com/services/counselling-2/ ; https://mindspacepk.com/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "aged 8-18 (homepage: 'Our services tailored for people aged 8-18'); young people page itself states no age range",
+    "in_scope": "true – counselling and a Young People's Recovery College for young people's mental health; not a youth club",
+    "councils_resolved": [
+      "Perth and Kinross"
+    ],
+    "name": "Mindspace – Young People",
+    "description": "Counselling and a Recovery College for young people in Perth and Kinross. You can register for counselling yourself using the online form on their website.",
+    "opening_times": "",
+    "notes": "Office number, not a support line. Not an emergency service.",
+    "notes_detail": "For counselling enquiries only, call 01738 631639 or email info@mindspacepk.com (Mon–Fri 8.30am–5pm). Counselling waiting list is open. For the Young People's Recovery College, email ypteam@mindspacepk.com.",
+    "flags": [
+      "COUNCIL MISMATCH: listed under Aberdeen City but Mindspace is 'Mindspace Perth and Kinross' (01738 Perth numbers). Move to Perth and Kinross; remove from Aberdeen City.",
+      "Contact page states two different sets of opening hours (Mon–Fri 9–5 vs Mon–Thu 9–6 / Fri 9–5 / Sat 9–1); opening_times left blank.",
+      "Homepage 'More Info' for counselling links to a dead URL (/services/counselling_closed/ returns 404); live page is /services/counselling-2/.",
+      "Counselling age limits vary by venue (8+ Kinross, 10+/12+ Crieff, 18+ Blairgowrie and Dunkeld)."
+    ]
+  },
+  {
+    "organisation": "The Shed Project",
+    "website_to_check": "https://www.theshedproject.org.uk/",
+    "councils_in_sheet": "Comhairle nan Eilean Siar",
+    "CHECKED_phone": "01851 704557",
+    "CHECKED_email": "admin@theshedproject.org.uk",
+    "CHECKED_hours": "No office hours stated. Youth Nights Thursday 7:30pm–9:30pm; Friday Drop-In 1:15pm–4:00pm; Saturday P7 Club 1:00pm–3:00pm.",
+    "CHECKED_eligibility_area": "Stornoway, Isle of Lewis. Mentoring referrals from staff at the Nicolson Institute, Stornoway Primary and Laxdale Primary, or directly by young people/parents. Youth nights for S1–S6 pupils; P7 Club for Primary 7 pupils 'from across the island'.",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://www.theshedproject.org.uk/mentoring-support ; https://www.theshedproject.org.uk/youth-nights-and-drop-ins ; https://www.theshedproject.org.uk/contact-us",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "No age range for mentoring ('young people'); youth nights 'S1–S6 pupils'; P7 Club for Primary 7",
+    "in_scope": "true (partly) – Mentoring Support is one-to-one support for young people who are struggling ('with school, at home, or simply need someone to talk to'); youth nights/drop-ins are a generic youth club with staff available to chat",
+    "councils_resolved": [
+      "Comhairle nan Eilean Siar"
+    ],
+    "name": "The Shed Project",
+    "description": "Youth and community centre in Stornoway offering one-to-one mentoring for young people who are struggling with school, at home, or just need someone to talk to. Also runs free youth nights and drop-ins for S1–S6.",
+    "opening_times": "",
+    "notes": "Office number, not a support line. Not an emergency service.",
+    "notes_detail": "You can ask for mentoring yourself through their website, or a parent or guardian can ask for you. Staff at the Nicolson Institute, Stornoway Primary and Laxdale Primary can also refer. Youth Nights Thu 7.30pm–9.30pm and Friday Drop-In 1.15pm–4pm at 11 Francis Street, Stornoway.",
+    "flags": [
+      "Site gives the postcode as both HS1 2ND (header) and HS1 2NB (footer/contact page).",
+      "Youth nights page shows tom@theshedproject.org.uk but the mailto link points to shaina@theshedproject.org.uk; only admin@ used here.",
+      "Mainly a youth club; the support element is the mentoring service. Area is Stornoway/Lewis, not the whole Western Isles."
+    ]
+  },
+  {
+    "organisation": "Youth Enquiry Service (YES), Dumfries and Galloway Council",
+    "website_to_check": "https://youthenquiryservice.org/",
+    "councils_in_sheet": "Dumfries & Galloway",
+    "CHECKED_phone": "01387 251322",
+    "CHECKED_email": "yes@dumgal.gov.uk",
+    "CHECKED_hours": "Office hours not stated. Blether live chat: Monday and Friday 5.00pm to 6.00pm; Tuesday to Thursday 7.00pm to 8.00pm; Saturday and Sunday 12.00pm to 1.00pm.",
+    "CHECKED_eligibility_area": "Dumfries and Galloway ('Dumfries & Galloway's Youth Information and Support Hub'). In-schools groups P6 to S6; 1-2-1 Blether in schools S1 and above.",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://youthenquiryservice.org/contact-us ; https://youthenquiryservice.org/live-chat ; https://youthenquiryservice.org/get-support ; https://youthenquiryservice.org/low-level-mental-health-support-in-schools",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "No overall age range stated; in-schools programmes 'P6 to S6', 1-2-1 Blether 'S1 and above'",
+    "in_scope": "true – youth information and support hub with one-to-one Blether live chat with a youth worker and low-level mental health support in schools; not a youth club",
+    "councils_resolved": [
+      "Dumfries and Galloway"
+    ],
+    "name": "Youth Enquiry Service (YES)",
+    "description": "Dumfries and Galloway's youth information and support hub. Chat online to a youth worker about anything on your mind, 7 days a week.",
+    "opening_times": "Blether live chat: Mon and Fri 5pm–6pm, Tue–Thu 7pm–8pm, Sat–Sun 12pm–1pm",
+    "notes": "Not a crisis service. Office number, not a support line.",
+    "notes_detail": "Use Blether live chat on their website. In secondary schools, you can refer yourself for 1-2-1 Blether support (S1 and above), or school staff can refer you.",
+    "flags": [
+      "Site states 'Blether is not a crisis referral'.",
+      "Run by Dumfries and Galloway Council Youth Work Service – overlaps with candidate 5 (Youthwork | D&G Council); this is the support element of that service.",
+      "No office hours published for the 01387 251322 number."
+    ]
+  },
+  {
+    "organisation": "CAMHS (Child and Adolescent Mental Health Services), Dumfries & Galloway Health and Social Care",
+    "website_to_check": "https://dghscp.co.uk/camhs/",
+    "councils_in_sheet": "Dumfries & Galloway",
+    "CHECKED_phone": "01387 244662",
+    "CHECKED_email": "dg.CAMHS-mail@nhs.scot",
+    "CHECKED_hours": "'If you would like to speak to a Mental Health Professional, you can call 01387 244662 between 2pm-4pm (Monday-Friday). We may not be able to respond the same day, but will do so as soon as possible.'",
+    "CHECKED_eligibility_area": "Children and young people in Dumfries and Galloway (bases at The Willows, Dumfries and The Oak Tree Family Centre, Stranraer). No CAMHS age range stated.",
+    "CHECKED_is_helpline_or_switchboard": "referral line",
+    "CHECKED_status": "ok",
+    "source_url": "https://dghscp.co.uk/camhs/contact/ ; https://dghscp.co.uk/camhs/camhs-referral-information-for-young-people-and-families/ ; https://dghscp.co.uk/camhs/camhs-referral-information-for-professionals/ ; https://dghscp.co.uk/camhs/i-need-help/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "Not stated for CAMHS. Self-referral page: 'If you are over 12 years old, you may want to refer yourself'; under 12s need a parent/carer/professional to complete the referral with them.",
+    "in_scope": "true – NHS specialist child and adolescent mental health service",
+    "councils_resolved": [
+      "Dumfries and Galloway"
+    ],
+    "name": "CAMHS Dumfries and Galloway",
+    "description": "NHS specialist mental health service for children and young people in Dumfries and Galloway. Accepts referrals from anyone who knows the child or young person, including self-referrals.",
+    "opening_times": "Mon–Fri 2pm–4pm (phone)",
+    "notes": "Not an emergency service. If you are feeling distressed and suicidal, call 999 and ask for an ambulance.",
+    "notes_detail": "If you are over 12, you can refer yourself using the self-referral form on their website. If you are under 12, a parent, carer or professional will need to complete the referral with you. To speak to a mental health professional, call 01387 244662 between 2pm and 4pm, Mon–Fri – they may not be able to respond the same day.",
+    "flags": [
+      "Phone answered only 2pm–4pm Mon–Fri and 'may not be able to respond the same day' – not a crisis line.",
+      "The same 01387 244662 number is also the professionals' referral phone.",
+      "Pages also show HSCP general enquiries 01387 246246 and Patient Services 01387 272 733 – these are not CAMHS lines; do not use.",
+      "Self-referral restricted to over-12s."
+    ]
+  },
+  {
+    "organisation": "Youth Work Service, Dumfries and Galloway Council",
+    "website_to_check": "https://www.dumfriesandgalloway.gov.uk/youthwork",
+    "councils_in_sheet": "Dumfries & Galloway",
+    "CHECKED_phone": "",
+    "CHECKED_email": "",
+    "CHECKED_hours": "",
+    "CHECKED_eligibility_area": "",
+    "CHECKED_is_helpline_or_switchboard": "none",
+    "CHECKED_status": "unclear",
+    "source_url": "https://www.dumfriesandgalloway.gov.uk/youthwork (HTTP 403 – Cloudflare bot challenge; /youthwork/about-youth-work-service also 403)",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "",
+    "in_scope": "false (provisional) – search leads describe generic universal youth work (community youth work, youth bases, awards, youth council). Its mental health support element is delivered through the Youth Enquiry Service (candidate 3), which already covers it.",
+    "councils_resolved": [
+      "Dumfries and Galloway"
+    ],
+    "name": "",
+    "description": "",
+    "opening_times": "",
+    "notes": "",
+    "notes_detail": "",
+    "flags": [
+      "Council page could not be opened (403 bot challenge), so nothing confirmed. A search snippet suggests 01387 260243 / Youth.Work@dumgal.gov.uk – NOT verified, not recorded.",
+      "Probably a generic youth work listing; recommend dropping it in favour of the Youth Enquiry Service entry."
+    ]
+  },
+  {
+    "organisation": "Space @ The Broomhouse Hub – Youth Befriending",
+    "website_to_check": "https://spacescot.org/youth-befriending/",
+    "councils_in_sheet": "City of Edinburgh",
+    "CHECKED_phone": "0131 455 7731",
+    "CHECKED_email": "youthbefriending@spacescot.org",
+    "CHECKED_hours": "Space @ The Broomhouse Hub: 'Monday-Friday 9 a.m.-4:30 p.m.' (site footer; no separate hours for Youth Befriending)",
+    "CHECKED_eligibility_area": "'young people aged five to 16 across Edinburgh affected by harms from substance use and gambling within the family'; 'living citywide in Edinburgh'",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://spacescot.org/youth-befriending/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "aged five to 16 ([ages 5-16])",
+    "in_scope": "true (limited) – one-to-one volunteer befriending support for children affected by family substance use or gambling; not a youth club, but not a mental health or crisis service",
+    "councils_resolved": [
+      "City of Edinburgh"
+    ],
+    "name": "Space Youth Befriending",
+    "description": "One-to-one befriending for young people aged 5–16 across Edinburgh who are affected by harms from substance use or gambling in their family. A volunteer meets you once a week to try new activities and build confidence.",
+    "opening_times": "Mon–Fri 9am–4.30pm",
+    "notes": "Office number, not a support line. Not an emergency service.",
+    "notes_detail": "Email youthbefriending@spacescot.org for more information.",
+    "flags": [
+      "Phone is the Space @ The Broomhouse Hub general number; no dedicated Youth Befriending phone.",
+      "Eligibility restricted to young people affected by family substance use or gambling.",
+      "Referral route not stated on the page."
+    ]
+  },
+  {
+    "organisation": "The Junction",
+    "website_to_check": "https://the-junction.org/drop-in/",
+    "councils_in_sheet": "City of Edinburgh",
+    "CHECKED_phone": "0131 553 0570",
+    "CHECKED_email": "info@the-junction.org",
+    "CHECKED_hours": "The Walk-In – Wednesdays 4-7pm; Chill and Chat – Fridays 12.30-3.30pm (drop-in 12.30-2pm, free confidential 1:1 chat 2-3.30pm)",
+    "CHECKED_eligibility_area": "'If you're aged 12 – 21 and live in North East Edinburgh, then our services are for you.'",
+    "CHECKED_is_helpline_or_switchboard": "switchboard",
+    "CHECKED_status": "ok",
+    "source_url": "https://the-junction.org/drop-in/ ; https://the-junction.org/contact/ ; https://the-junction.org/",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "aged 12-21",
+    "in_scope": "true – young people's health and wellbeing service; the Walk-In gives one-to-one time with a worker about anything including difficult emotions, self-harm and drug use; not just a youth club",
+    "councils_resolved": [
+      "City of Edinburgh"
+    ],
+    "name": "The Junction",
+    "description": "Free, confidential health and wellbeing support for young people aged 12–21 in North East Edinburgh. Walk in and talk to a worker one-to-one about anything – stress, difficult emotions, drugs, self-harm, or worries about someone else.",
+    "opening_times": "Walk-In Wed 4pm–7pm; Chill and Chat Fri 12.30pm–3.30pm",
+    "notes": "Not an emergency service.",
+    "notes_detail": "Drop-ins are at 82–86 Great Junction Street, Edinburgh EH6 5LL. You can come on your own or bring a friend, family member or support worker. You can also call or text 07758348850.",
+    "flags": [
+      "WEBSITE INTEGRITY: the drop-in page contains an injected 'Fake IDs issue among British and American youth' paragraph linking to fake-ID sellers (bestfakeids.today, kingoffakes.com). Looks like SEO spam/compromise – consider telling the charity, and avoid deep-linking to /drop-in/.",
+      "Eligibility restricted to North East Edinburgh, not all of Edinburgh.",
+      "WebFetch summary showed support@the-junction.org on the homepage but it could not be confirmed in the page source; not used."
+    ]
+  },
+  {
+    "organisation": "Mind Your Head – Well Youth",
+    "website_to_check": "https://www.mindyourhead.org.uk/what-we-do/support/well-youth",
+    "councils_in_sheet": "Shetland Islands",
+    "CHECKED_phone": "01595 745035",
+    "CHECKED_email": "mindyourhead@shetland.org",
+    "CHECKED_hours": "",
+    "CHECKED_eligibility_area": "'Supporting young people in Shetland'; sessions 'anywhere you feel comfortable (throughout Shetland)'; 'for those aged 10-25 years'",
+    "CHECKED_is_helpline_or_switchboard": "referral line",
+    "CHECKED_status": "ok",
+    "source_url": "https://www.mindyourhead.org.uk/what-we-do/support/well-youth",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "aged 10-25 years",
+    "in_scope": "true – free one-to-one mental health support sessions for young people",
+    "councils_resolved": [
+      "Shetland Islands"
+    ],
+    "name": "Well Youth (Mind Your Head)",
+    "description": "Free one-to-one support sessions for young people aged 10–25 in Shetland who are struggling with their mental health. Meet anywhere you feel comfortable and get practical support with whatever you are finding hard.",
+    "opening_times": "",
+    "notes": "Not an emergency service.",
+    "notes_detail": "To sign up, leave a message on the contact form on their website, email mindyourhead@shetland.org or call 01595 745035. You can also get in touch if you are supporting a loved one through a tough time.",
+    "flags": [
+      "No opening hours published.",
+      "Email is Cloudflare-obfuscated on the page; decoded to mindyourhead@shetland.org (same address in both sign-up sections)."
+    ]
+  },
+  {
+    "organisation": "Rock Trust",
+    "website_to_check": "https://www.rocktrust.org/",
+    "councils_in_sheet": "City of Edinburgh",
+    "CHECKED_phone": "",
+    "CHECKED_email": "",
+    "CHECKED_hours": "",
+    "CHECKED_eligibility_area": "",
+    "CHECKED_is_helpline_or_switchboard": "none",
+    "CHECKED_status": "unclear",
+    "source_url": "https://www.rocktrust.org/ (HTTP 520 / SiteGround captcha on all pages tried: /, /contact, /get-help, sitemap)",
+    "date_checked": "2026-10-16",
+    "age_range_stated": "",
+    "in_scope": "true (provisional) – youth homelessness charity, support service rather than youth club; not confirmed from own site",
+    "councils_resolved": [],
+    "name": "",
+    "description": "",
+    "opening_times": "",
+    "notes": "",
+    "notes_detail": "",
+    "flags": [
+      "Own website blocked automated access (captcha); nothing confirmed. Re-check manually in a browser.",
+      "Leads only (directories/archive, NOT verified): Edinburgh office 55 Albany Street, 0131 557 4059, admin@rocktrust.org, duty drop-in Mon–Fri 9am–4pm; West Lothian office Livingston 01506 591860; ages 16–25 (15–25 in West Lothian); Nightstop in West Lothian. Suggests it serves at least City of Edinburgh and West Lothian, possibly wider Lothians – confirm on own site before assigning councils."
+    ]
+  }
+]
