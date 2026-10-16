@@ -1,5 +1,5 @@
 {
- "_about": "Staged Youth Services records, verified 2026-10-16 against each organisation's own site. NOT yet in resources.json. Fold in after the tidy-up merges: re-run the duplicate check, assign ids, add the category, expand one record per council.",
+ "_about": "MERGED into resources.json as r0426–r0449 on 2026-10-16. Kept as the verification audit trail; do not re-apply.",
  "category": {
   "slug": "youth",
   "label": "Youth Services"
